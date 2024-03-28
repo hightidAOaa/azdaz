@@ -1,8 +1,4 @@
 <?php
-/**
- * Leaf PHP Mailer by [leafmailer.pw]
- * @version : 2.8
-**/
 
 $password = ""; // Password 
 
